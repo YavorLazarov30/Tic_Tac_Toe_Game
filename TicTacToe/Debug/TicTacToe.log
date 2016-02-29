@@ -1,0 +1,3 @@
+﻿  Game.cpp
+c:\users\yavor\documents\visual studio 2015\projects\function\tictactoe\game.cpp(338): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TicTacToe.vcxproj -> C:\Users\Yavor\Documents\Visual Studio 2015\Projects\Function\Debug\TicTacToe.exe
